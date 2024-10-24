@@ -3,7 +3,7 @@ using namespace std;
 int add (int a, int b);
 int main()
 {
-
+        cout << "do you like milk?";
 
     cout << "Greetings!\n";
     cout << "Hello World!\n";
